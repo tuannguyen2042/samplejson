@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Candidate1",
+    "AccountNumber": 1,
+    "Source": "Web",
+    "Website": "www.gmail.com",
+    "Email": "Candiate1@gmail.com"
+  },
+  {
+    "Name": "Candidate2",
+    "AccountNumber": 2,
+    "Source": "Phone Inquiry",
+    "Website": "www.yahoo.com",
+    "Email": "Candiate2@yahoo.com"
+  },
+  {
+    "Name": "Candidate3",
+    "AccountNumber": 3,
+    "Source": "Partner Referral",
+    "Website": "www.hotmail.com",
+    "Email": "Candiate3@hotmail.com"
+  }
+]
